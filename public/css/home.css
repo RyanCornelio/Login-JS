@@ -37,7 +37,7 @@ body {
     font-size: 16px;
     color: #fff;
     background: none;
-    text-decoration: underline;
+    text-decoration: none;
     cursor: pointer;
     outline: none;
     border: none;
@@ -47,6 +47,6 @@ body {
     font-family: 'roboto', sans-serif;
     font-size: 100px;
     color: #fff;
-    font-weight: 800;
+    font-weight: 400;
     text-transform: capitalize;
 }

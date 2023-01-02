@@ -1,0 +1,26 @@
+{
+  "name": "login-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanCornelio/Login-JS.git"
+  },
+  "author": "Ryan-Phillips Iserhills Cornelio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanCornelio/Login-JS/issues"
+  },
+  "homepage": "https://github.com/RyanCornelio/Login-JS#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express.js": "^1.0.0",
+    "knex": "^2.3.0",
+    "nodemon": "^2.0.20",
+    "pg": "^8.8.0"
+  }
+}
